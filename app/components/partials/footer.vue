@@ -1,9 +1,19 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
-      <a href="https://www.facebook.com/Date-My-Mate-106605317589661/">
-        <img source="https://www.freepnglogos.com/uploads/logo-facebook-png/logo-facebook-facebook-logo-png-transparent-svg-vector-bie-supply-18.png"
-         </img> <g>
+      <a href="https://github.com/Gomah/bluise">
+        <svg
+          baseProfile="tiny"
+          height="32px"
+          fill="white"
+          version="1.1"
+          viewBox="0 0 24 24"
+          width="24px"
+          xml:space="preserve"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+        >
+          <g> <g>
             <g>
               <g>
                 <path
