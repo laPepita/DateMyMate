@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Date My Mate",
+  "shortName": "DMM",
+  "description": "Fostering genuine relationships through comedy is why we exist.",
+  "themeColor": "#007995",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
