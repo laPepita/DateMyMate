@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "titleTemplate": "| Date My Mate",
+  "welcomeText": "# Date My Mate.\n\nIn the name of humour, friendship and love, we run live events where friends pitch their singles mates to a crowd of potential admirers.",
   "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "icon": "/images/uploads/favicon-32x32.png",
+  "loadingColor": "#007995",
+  "seoDescription": "Date My Mate. In the name of humour, friendship and love, we run live events where friends pitch their singles mates to the crowd. ",
+  "seoMetaImage": "/images/uploads/logo.svg"
 }
