@@ -17,15 +17,19 @@
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://fun.us4.list-manage.com/subscribe/post?u=ed902414073f244989e19ffed&amp;id=e5799a0663" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ed902414073f244989e19ffed_e5799a0663" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
+
+<form action="https://fun.us4.list-manage.com/subscribe/post?u=ed902414073f244989e19ffed&amp;id=e5799a0663" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="novalidate" class="validate"><div id="mc_embed_signup_scroll"><input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="your@email.com" required="required" class="email" style="
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-color: #3796a7;
+    border-radius: 0px;
+"> <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_ed902414073f244989e19ffed_e5799a0663" tabindex="-1" value=""></div> <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="
+    color: white;
+    background-color: #3796a7;
+"></div></div></form>
+
+
 </div>
 
 <!--End mc_embed_signup-->
@@ -59,12 +63,10 @@
 
             <button
               class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
-              type="submit"
-            >
+              type="submit">
               Sign Up
             </button>
-          </form>
-          -->
+          </form>-->
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
