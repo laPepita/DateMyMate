@@ -6,7 +6,7 @@
 
         <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
-
+          <p> Want early access to tickets, funny stories and to stay in touch? Join our mailing list!</p>
           <form
             v-else
             @submit.prevent="handleSubmit"
@@ -33,8 +33,8 @@
           </form>
         </div>
       </div>
-      <div class="flex flex-col w-full xl:w-2/5">
-        <img class="rounded shadow-xl" src="https://source.unsplash.com/random/720x400" />
+      <div class="flex flex-col w-full xl:w-1/5">
+        <img class="rounded shadow-xl" src="https://datemymate.fun/images/uploads/crowd.JPG" />
       </div>
     </div>
   </section>
