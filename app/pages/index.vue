@@ -6,12 +6,24 @@
 
         <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
+          
+          
+          
+          
+
+          
+          
+          
+          
+          
           <form
             v-else
             @submit.prevent="handleSubmit"
             name="signups"
             netlify
             class="flex items-center border-b border-b-2 border-blue-400 py-2"
+            action="https://fun.us4.list-manage.com/subscribe/post?u=ed902414073f244989e19ffed&amp;id=e5799a0663" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+            id="mce-EMAIL"
           >
             <input
               ref="emailInput"
@@ -22,6 +34,9 @@
               placeholder="your@email.com"
               aria-label="Email address"
             />
+             <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ed902414073f244989e19ffed_e5799a0663" tabindex="-1" value=""></div>
+   
 
             <button
               class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
