@@ -39,7 +39,9 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img class="rounded shadow-xl" src="https://datemymate.fun/images/uploads/home.svg" />
+        <img class="rounded shadow-xl" style="
+    margin-left: 2rem;
+    margin-right: 2rem;" src="https://datemymate.fun/images/uploads/home.svg" />
       </div>
     </div>
   </section>
