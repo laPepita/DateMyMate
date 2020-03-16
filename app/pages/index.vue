@@ -38,8 +38,11 @@
          
         </div>
       </div>
-      <div class="flex flex-col w-full xl:w-2/5">
+      <div class="flex flex-col w-full xl:w-2/5" style="
+    text-align: -webkit-center;
+">
         <img class="rounded shadow-xl" style="
+        max-width: 80%;
   " src="https://datemymate.fun/images/uploads/home.svg" />
       </div>      
       
