@@ -56,7 +56,7 @@
    <div class="w-full md:w-1/2 my-4 md:px-4 shadow-xl rounded">
       <div class="post">
          <a href="https://airtable.com/shrc3DiW9MCRdFGFV" class="">
-            <img src="https://datemymate.fun/images/uploads/dmm-min.jpeg" class="w-full"> 
+            <img src="https://datemymate.fun/images/uploads/dmm-min.jpeg" class="w-full rounded"> 
             <div class="p-6 bg-white">
                <h2 class="text-2xl mb-2">Get in our Insta</h2>
                <p class="text-base font-light">
@@ -69,7 +69,7 @@ Get yourself, or your single mate out there in front of the Date My Mate Instagr
    <div class="w-full md:w-1/2 my-4 md:px-4 shadow-xl rounded">
       <div class="post">
          <a href="https://airtable.com/shrWXjpf0eKzssPi3" class="">
-            <img src="https://datemymate.fun/images/uploads/side.jpg" class="w-full"> 
+            <img src="https://datemymate.fun/images/uploads/side.jpg" class="w-full rounded"> 
             <div class="p-6 bg-white">
                <h2 class="text-2xl mb-2">Bring the heat</h2>
                <p class="text-base font-light">
