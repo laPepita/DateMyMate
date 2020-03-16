@@ -45,16 +45,50 @@
       </div>      
       
     </div>
+    
+    
+    
+    
+    
+    <div class="flex flex-wrap md:-mx-4 pb-20">
+   <div class="w-full md:w-1/2 my-4 md:px-4">
+      <div class="post">
+         <a href="https://airtable.com/shrc3DiW9MCRdFGFV" class="">
+            <img src="https://datemymate.fun/images/uploads/dmm-min.jpeg" class="w-full"> 
+            <div class="p-6 bg-white">
+               <h2 class="text-2xl mb-2">Submit photos to our Instagram</h2>
+               <p class="text-base font-light">
+Get yourself, or your single mate out there in front of the Date My Mate Instagram audience.  Analytically speaking, you've got a good chance someone will slide into your or your mate's DMs.  Submit now, and watch the hype!</p>
+               <h6 class="text-blue-600 mt-4 font-medium">Submit now</h6>
+            </div>
+         </a>
+      </div>
+   </div>
+   <div class="w-full md:w-1/2 my-4 md:px-4">
+      <div class="post">
+         <a href="https://airtable.com/shrWXjpf0eKzssPi3" class="">
+            <img src="https://datemymate.fun/images/uploads/side.jpg" class="w-full"> 
+            <div class="p-6 bg-white">
+               <h2 class="text-2xl mb-2">Pug Swag</h2>
+               <p class="text-base font-light">
+ A great pitch is basically the pinnacle of wingmanning/wingwomanning your close mate, sibling or cousin. Not only does it give you the chance to lay out the cold hard facts on why your mate is perfect it also makes for an excellent night out.
+               </p>
+               <h6 class="text-blue-600 mt-4 font-medium">Apply to pitch</h6>
+            </div>
+         </a>
+      </div>
+   </div>
+</div>
+    
+    
+    
+    
+    
+    
   </section>
   
   
-  <section>
-    <div class="flex flex-wrap md:-mx-4 pb-20"><div class="w-full md:w-1/2 my-4 md:px-4"><div class="post"><a href="/blog/meditation-pop-up-forage" class=""><img src="https://datemymate.fun/images/uploads/dmm-min.jpeg" class="w-full"> <div class="p-6 bg-white"><h2 class="text-2xl mb-2">Meditation pop-up forage</h2> <p class="text-base font-light">
-              Lorem ipsum dolor amet lo-fi vice flannel, distillery bicycle rights bitters sartorial raw denim pop-up succulents offal williamsburg iPhone gastropub...
-            </p> <h6 class="text-blue-600 mt-4 font-medium">Read more</h6></div></a></div></div><div class="w-full md:w-1/2 my-4 md:px-4"><div class="post"><a href="/blog/pug-swag" class=""><img src="https://source.unsplash.com/random/640x340" class="w-full"> <div class="p-6 bg-white"><h2 class="text-2xl mb-2">Pug Swag</h2> <p class="text-base font-light">
-              Pug swag yuccie artisan hot chicken, glossier cold-pressed. Tumeric you probably haven't heard of them kinfolk yuccie. Cronut prism jean shorts, pickl...
-            </p> <h6 class="text-blue-600 mt-4 font-medium">Read more</h6></div></a></div></div></div>
-</section>
+
   
   
 </template>
