@@ -42,9 +42,21 @@
         <img class="rounded shadow-xl" style="
     margin-left: 2rem;
     margin-right: 2rem;" src="https://datemymate.fun/images/uploads/dmm-min.jpeg" />
-      </div>
+      </div>      
+      
     </div>
   </section>
+  
+  
+  <section>
+    <div class="flex flex-wrap md:-mx-4 pb-20"><div class="w-full md:w-1/2 my-4 md:px-4"><div class="post"><a href="/blog/meditation-pop-up-forage" class=""><img src="https://source.unsplash.com/random/640x340" class="w-full"> <div class="p-6 bg-white"><h2 class="text-2xl mb-2">Meditation pop-up forage</h2> <p class="text-base font-light">
+              Lorem ipsum dolor amet lo-fi vice flannel, distillery bicycle rights bitters sartorial raw denim pop-up succulents offal williamsburg iPhone gastropub...
+            </p> <h6 class="text-blue-600 mt-4 font-medium">Read more</h6></div></a></div></div><div class="w-full md:w-1/2 my-4 md:px-4"><div class="post"><a href="/blog/pug-swag" class=""><img src="https://source.unsplash.com/random/640x340" class="w-full"> <div class="p-6 bg-white"><h2 class="text-2xl mb-2">Pug Swag</h2> <p class="text-base font-light">
+              Pug swag yuccie artisan hot chicken, glossier cold-pressed. Tumeric you probably haven't heard of them kinfolk yuccie. Cronut prism jean shorts, pickl...
+            </p> <h6 class="text-blue-600 mt-4 font-medium">Read more</h6></div></a></div></div></div>
+</section>
+  
+  
 </template>
 
 <script lang="ts">
