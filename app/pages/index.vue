@@ -60,7 +60,7 @@
             <div class="p-6 bg-white">
                <h2 class="text-2xl mb-2">Get in our Insta</h2>
                <p class="text-base font-light">
-Get yourself, or your single mate out there in front of the Date My Mate Instagram audience.  Analytically speaking, you've got a good chance someone will slide into your or your mate's DMs.  Submit now, and watch the hype!</p>
+Get yourself, or your single mate out there in front of the Date My Mate Instagram audience.  Analytically speaking, you've got a great chance someone will slide into your or your mate's DMs.  Submit now, and watch the DMs slip & slide!</p>
                <h6 class="text-blue-600 mt-4 font-medium">Submit now</h6>
             </div>
          </a>
@@ -73,7 +73,7 @@ Get yourself, or your single mate out there in front of the Date My Mate Instagr
             <div class="p-6 bg-white">
                <h2 class="text-2xl mb-2">Bring the heat</h2>
                <p class="text-base font-light">
- A great pitch is basically the pinnacle of wingmanning/wingwomanning your close mate, sibling or cousin. Not only does it give you the chance to lay out the cold hard facts on why your mate is perfect it also makes for an excellent night out.
+ A great pitch is basically the pinnacle of wingmanning/wingwomanning your close mate, sibling, parent or cousin. Not only does it give you the chance to lay out the cold hard facts on why your mate is great, it also makes for an excellent night out.
                </p>
                <h6 class="text-blue-600 mt-4 font-medium">Apply to pitch</h6>
             </div>
